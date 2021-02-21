@@ -19,12 +19,12 @@ dataset_root
 
 ### Get start with the provided code
 
-###### 1. Install the required package
+##### 1. Install the required package
 ```
 pip install -r requirements.txt
 ```
 
-###### 2. Run runme.sh
+##### 2. Run runme.sh
 ```
 sh ./runme.sh
 ```
@@ -41,9 +41,9 @@ runme.sh include:
 Jinhua Liang (liangjh0903@gmail.com)
 
 ### Reference
-[1] Mesaros, A. , Heittola, T. , Diment, A. , Elizalde, B. , & Virtanen, T. . (2017). DCASE 2017 Challenge setup: Tasks, datasets and baseline system. Detection & Classification of Acoustic Scenes & Events.
-    Code: https://github.com/ankitshah009/Task-4-Large-scale-weakly-supervised-sound-event-detection-for-smart-cars#1-direct-download-for-the-audio-of-the-development-and-evaluation-sets
-[2] Kong, Qiuqiang, Yong Xu, Wenwu Wang, and Mark D. Plumbley. "Sound Event Detection of Weakly Labelled Data with CNN-Transformer and Automatic Threshold Optimization." arXiv preprint arXiv:1912.04761 (2019).
-    Code: https://github.com/qiuqiangkong/sound_event_detection_dcase2017_task4
-[3] Xu, Y. , Kong, Q. , Wang, W. , & Plumbley, M. D. . (2018). Large-scale weakly supervised audio classification using gated convolutional neural network.
+[1] Mesaros, A. , Heittola, T. , Diment, A. , Elizalde, B. , & Virtanen, T. . (2017). DCASE 2017 Challenge setup: Tasks, datasets and baseline system. Detection & Classification of Acoustic Scenes & Events.<br>
+    Code: https://github.com/ankitshah009/Task-4-Large-scale-weakly-supervised-sound-event-detection-for-smart-cars#1-direct-download-for-the-audio-of-the-development-and-evaluation-sets<br>
+[2] Kong, Qiuqiang, Yong Xu, Wenwu Wang, and Mark D. Plumbley. "Sound Event Detection of Weakly Labelled Data with CNN-Transformer and Automatic Threshold Optimization." arXiv preprint arXiv:1912.04761 (2019).<br>
+    Code: https://github.com/qiuqiangkong/sound_event_detection_dcase2017_task4<br>
+[3] Xu, Y. , Kong, Q. , Wang, W. , & Plumbley, M. D. . (2018). Large-scale weakly supervised audio classification using gated convolutional neural network.<br>
     Code: https://github.com/yongxuUSTC/dcase2017_task4_cvssp

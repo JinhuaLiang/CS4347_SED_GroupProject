@@ -19,12 +19,12 @@ dataset_root
 
 ### Get start with the provided code
 
-##### 1. Install the required package
+#### 1. Install the required package
 ```
 pip install -r requirements.txt
 ```
 
-##### 2. Run runme.sh
+#### 2. Run runme.sh
 ```
 sh ./runme.sh
 ```

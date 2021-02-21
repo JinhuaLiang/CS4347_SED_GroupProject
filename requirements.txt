@@ -1,0 +1,4 @@
+sed_eval==0.2.1
+torchlibrosa==0.0.4
+torch==1.2.0
+h5py
